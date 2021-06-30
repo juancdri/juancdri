@@ -31,7 +31,7 @@
 <h3> 🤝 &nbsp; Conectá conmigo </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juancdri/"><img src="https://img.shields.io/badge/-Juan%20M.%20Condori-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/juancondori/"><img src="https://img.shields.io/badge/-Juan%20M.%20Condori-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juancdri@gmail.com"><img src="https://img.shields.io/badge/-juancdri@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 <!--
