@@ -34,6 +34,9 @@
   <a href="https://www.linkedin.com/in/juancondori/"><img src="https://img.shields.io/badge/-Juan%20M.%20Condori-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juancdri@gmail.com"><img src="https://img.shields.io/badge/-juancdri@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
+  ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=juancdri&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+  
 <!--
 **juancdri/juancdri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
