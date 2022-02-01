@@ -8,6 +8,7 @@
 🖥️ Desarrollador junior con ganas de crecer y perfeccionarme!!<br/>
 🌐 Cuento con una solida formación, y experiencia en el desarrollo Back-End y Front-End de aplicaciones web.<br/>
 📣 Me encuentro en búsqueda de una compañía, donde pueda aplicar todos mis conocimientos y agregarle valor al equipo de trabajo.<br/>
+</br>
 
 - 📚  Mis mejores habilidades: **Javascript, React, Redux **.
 - 🌱 Tecnologías que me gustaría aprender: **React Native, GraphQL, Next Js**
