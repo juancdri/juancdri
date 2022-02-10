@@ -1,6 +1,6 @@
 
 # Hola, soy Juan 👋
-<h3 align="center">Full-Stack Web Developer 👨‍💻 actualmente en busca de trabajo 🚀.</h3>
+<h3 align="center">Full-Stack Web Developer 👨‍💻.</h3>
 <img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471qte19s3612r7pr28arwa9mlxsrxz7ju50twesgu&rid=giphy.gif&ct=g" width="250">
 
 </br>
